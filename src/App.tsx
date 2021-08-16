@@ -5,7 +5,6 @@ import './App.css';
 // Components
 import { QuestionCard } from './components/QuestionCard';
 import { GlobalStyle, Wrapper } from './styles/app.style';
-import { QuestionWrapper } from './styles/QuestionCard.style';
 
 export type AnswerObject = {
     question: string;
